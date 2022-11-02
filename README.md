@@ -16,7 +16,11 @@ I like scuba diving and hiking. I also like traveling. I also like food and cook
 
 # Portfolio
 ### Excercise 
-### Classnote Telling-Story-with-Data
+
+### Critique 
+
+### Class Workshop 
+##### Classnote Telling-Story-with-Data
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11663003"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
