@@ -1,9 +1,9 @@
 # About me
 
-## Introduction 
+### Introduction 
 My name is Anita Chen, I am a second-year graduate student from Arts Managament Program. I studied sculpture and art history in my undergrad and looking to pivot to management consulting after school. 
 
-## Hobbies 
+### Hobbies 
 I like scuba diving and hiking. I also like traveling. I also like food and cooking. 
 
 # What I hope to learn
@@ -13,9 +13,9 @@ I like scuba diving and hiking. I also like traveling. I also like food and cook
 
 
 # Portfolio
-## Excercise 
-## Classnote Telling-Story-with-Data
+### Excercise 
+### Classnote Telling-Story-with-Data
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11663003"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Final Project 
+### Final Project 
