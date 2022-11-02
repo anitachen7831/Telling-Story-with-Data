@@ -1,3 +1,5 @@
+Anita Chen  yuchen2@andrew.cmu.edu
+
 # About me
 
 ### Introduction 
