@@ -24,13 +24,16 @@ I like scuba diving and hiking. I also like traveling. I also like food and cook
 
 ### Assignment #2 
 
+
 #### Government Debt 
 <iframe src="https://data.oecd.org/chart/6Sn9" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Sn9" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+
 
 #### Government Debt By Country 2000-2018 (version #1) 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11736793"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The graph shows the government debt from 2000 to 2018 of 24 countries. The source of the data is public and coming from OCDE. The graph indicates the trend of the government debt over the past 8 years and compariosn among each other at different time period. The stacked line chart emphasizes the amount of debt that each country carries. 
+The graph shows the government debt from 2000 to 2018 of 24 countries. The source of the data is public and coming from OECD. The graph indicates the trend of the government debt over the past 8 years and compariosn among each other at different time period. The stacked line chart emphasizes the amount of debt that each country carries. 
+
 
 #### Government Debt By Country 2000-2018 (version #2) 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11737112"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
