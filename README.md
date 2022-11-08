@@ -33,6 +33,10 @@ Government Debt By Country
 
 The graph shows the government debt from 2000 to 2018 of 24 countries. The graph indicates the trend of the government debt and its association with each other at different time period. The stacked line chart emphasizes the amount of debt that each country carries. 
 
+Government Debt By Country (version #2) 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11737112"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+For the alternative data visualization, I chose Treemap to group the total government debt for each country and tell the story of which country has the largest and which has the least. From the graph, we can see that JPN, GRC, CAN, ITA, and BEL are the top 5 counrties have most governmental debt over the last 8 years. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11736793"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
