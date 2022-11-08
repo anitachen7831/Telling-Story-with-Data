@@ -28,5 +28,12 @@ Government Debt
 
 <iframe src="https://data.oecd.org/chart/6Sn9" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Sn9" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
+Government Debt By Country 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11736793"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The graph shows the government debt from 2000 to 2018 of 24 countries. The graph indicates the trend of the government debt and its association with each other at different time period. The stacked line chart emphasizes the amount of debt that each country carries. 
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11736793"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Final Project 
