@@ -42,5 +42,8 @@ For the alternative data visualization, I chose Treemap to group the total gover
 
 Compare to the line chart, we can't see the year-over-year growth/decline rate of the debt on the treemap. However, this graph compares the amount of debt amount countries, which tells another story. The reason to choose is that it organizes the information in an order which delivers systematic information. These two graphs use the same dataset but deliver different information which could come to a different conclusion. However, I do think that the treemap is more effective in guiding the audience to come to a quick conclusion and synthesis of the information.  
 
+### Assignment #3 & #4 
+
+[link to assignment 3 & 4](/Assignment #3 and #4.md)
 
 ### Final Project 
