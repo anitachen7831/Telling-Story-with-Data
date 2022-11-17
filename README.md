@@ -48,6 +48,6 @@ This assignment is about critiquing and recreating a data visualization by using
 
 This process helps me to understand data visualization both from reader and designer's perspective to optimize the information, think about the audience and emphasize on specific insights. 
 
-[link to assignment 3 & 4](../../assignment #3 and #4.md)
+[link to assignment 3 & 4](/assignment34.md)
 
 ### Final Project 
