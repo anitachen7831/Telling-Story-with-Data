@@ -42,7 +42,7 @@ For the alternative data visualization, I chose Treemap to group the total gover
 
 Compare to the line chart, we can't see the year-over-year growth/decline rate of the debt on the treemap. However, this graph compares the amount of debt amount countries, which tells another story. The reason to choose is that it organizes the information in an order which delivers systematic information. These two graphs use the same dataset but deliver different information which could come to a different conclusion. However, I do think that the treemap is more effective in guiding the audience to come to a quick conclusion and synthesis of the information.  
 
-### Assignment #3 & #4 
+### Assignment #3 & #4 Data Visualization Critique
 
 This assignment is about critiquing and recreating a data visualization by using Few, Stephen's Data Visualization Effectiveness Profile. I first chose the shareholder return v.s. market index in P&G's 2022 annual report. By using the Effectiveness Scale, I criticized the visualization using 7 metrics. Later, I started to sketch and brainstorm ways to optimize this dataset. After two rounds of interviews, I developed a new visualization to tell P&G's financial record effectively.
 
