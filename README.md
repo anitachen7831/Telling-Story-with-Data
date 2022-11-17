@@ -44,6 +44,6 @@ Compare to the line chart, we can't see the year-over-year growth/decline rate o
 
 ### Assignment #3 & #4 
 
-[link to assignment 3 & 4](/Assignment #3 and #4.md)
+[link to Assignment 3 & 4](/assignment #3 and #4.md)
 
 ### Final Project 
