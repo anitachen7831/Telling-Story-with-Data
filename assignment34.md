@@ -4,7 +4,7 @@
 
 <img width="742" alt="Screen Shot 2022-11-14 at 11 33 31 PM" src="https://user-images.githubusercontent.com/101652566/202324049-0009bdb2-ed1e-48a2-b604-6d04fe8b8c3e.png">
 
-citation: P&G Annual Report, 2022, https://s1.q4cdn.com/695946674/files/doc_financials/2022/ar/2022_annual_report.pdf
+citation: P&G, "P&G Annual Report," 2022, https://s1.q4cdn.com/695946674/files/doc_financials/2022/ar/2022_annual_report.pdf
 
 This is P&G's 2022 annual report. The data visualization I selected is the shareholder return as compared to S&P 500 market index. There are three reasons why chosing this data, firstly, this is very important benchmark data to show the aggressive growing trend of P&G. Second, among all the information in the report, the shareholder return data is the key datapoints in determining the success of the company's performance. Lastly, the visualization layout and design is not emphaizing the growth, which is not benefiiting this positive information. 
 
