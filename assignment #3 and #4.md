@@ -8,7 +8,7 @@ citation: https://s1.q4cdn.com/695946674/files/doc_financials/2022/ar/2022_annua
 
 This is P&G's 2022 annual report. The data visualization I selected is the shareholder return as compared to S&P 500 market index. There are three reasons why chosing this data, firstly, this is very important benchmark data to show the aggressive growing trend of P&G. Second, among all the information in the report, the shareholder return data is the key datapoints in determining the success of the company's performance. Lastly, the visualization layout and design is not emphaizing the growth, which is not benefiiting this positive information. 
 
-## Step Two: critique the data visualization 
+## Step Two: Critique the data visualization 
 
 My overall observation of the graph is that it shows the general trend of shareholder return in 5 years is increasing. The chart does an efficient job of displaying the growth with the triangle sign, different color marks, and clear lines. However, the graph is not very useful in displaying the intent of the graph to compare P&G’s shareholder return, S&P 500 stock Index, and S&P 500 Consumer Staples Index. The comparison insights are not very identical to the current visualization.    
 
@@ -22,7 +22,32 @@ The aesthetics of the graph is not very appealing. First, it is not visually ple
 
 The engagement is not very in-depth without emphasis on the key information and insights of the P&G shareholder growth. The hue and saturation of color are not curated to tell the story between the three datasets either. 
 
-## Step Three: sketch out the result 
+## Step Three: Sketch out the result 
+
+![IMG_0581](https://user-images.githubusercontent.com/101652566/202330781-5efe05a2-47cc-4889-aa3c-82a1a4ea8119.jpg)
+
+## Step Four: Test the result 
+
+### Interview Question: 
+1. What do you see in this data? 
+2. What is the one key takeaway? 
+3. Is there anything you find confusing? 
+4. This is a financial data, what do you expect to see, but not on this chart. 
+
+#### Interview Note: Student, early 20s 
+1. I like this color contrast in different datapoints. The graph shows clear information of the trend. 
+2. It is a bit hard to engage the label with the graph. 
+3. I like the arrow that point out the trend. 
+4. The last option fits with the purpose of storytelling the most. 
+
+#### Interview Note: Student, early 20s 
+1. I see a growing trend of P&G. 
+2. I expect to see more datapoints, like numbers. 
+3. I like shorter title 
+
+## Step Five: Build your solutions 
+
+
 
 
 
