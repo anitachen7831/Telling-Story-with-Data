@@ -44,6 +44,10 @@ Compare to the line chart, we can't see the year-over-year growth/decline rate o
 
 ### Assignment #3 & #4 
 
+This assignment is about critiquing and recreating a data visualization by using Few, Stephen's Data Visualization Effectiveness Profile. I first chose shareholder return v.s. market indiex in the P&G's 2022 annual report. By using the Effectiveness Scale, I criticized the visualization using 7 metrics. Later, I started to sketch and brainstrom ways to optimize this datasets. After two rounds of interviews, I developed a new visualization to tell the P&G's financial record effectively. 
+
+This process helps me to understand data visualization both from reader and designer's perspective to optimize the information, think about the audience and emphasize on specific insights. 
+
 [link to assignment 3 & 4](/assignment #3 and #4.md)
 
 ### Final Project 
