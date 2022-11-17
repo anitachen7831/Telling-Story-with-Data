@@ -8,6 +8,8 @@ citation: https://s1.q4cdn.com/695946674/files/doc_financials/2022/ar/2022_annua
 
 This is P&G's 2022 annual report. The data visualization I selected is the shareholder return as compared to S&P 500 market index. There are three reasons why chosing this data, firstly, this is very important benchmark data to show the aggressive growing trend of P&G. Second, among all the information in the report, the shareholder return data is the key datapoints in determining the success of the company's performance. Lastly, the visualization layout and design is not emphaizing the growth, which is not benefiiting this positive information. 
 
+This data is newly published on P&G's website and has not been criticized elsewhere.  
+
 ## Step Two: Critique the data visualization 
 
 My overall observation of the graph is that it shows the general trend of shareholder return in 5 years is increasing. The chart does an efficient job of displaying the growth with the triangle sign, different color marks, and clear lines. However, the graph is not very useful in displaying the intent of the graph to compare P&G’s shareholder return, S&P 500 stock Index, and S&P 500 Consumer Staples Index. The comparison insights are not very identical to the current visualization.    
@@ -44,10 +46,13 @@ The engagement is not very in-depth without emphasis on the key information and 
 1. I see a growing trend of P&G. 
 2. I expect to see more datapoints, like numbers. 
 3. I like shorter title 
+4. last option depicts the most information and clear comparison.
+
+The interview pattern is focusing on the last option in my sketch book and inclining for the concise information and emphasis on the trend. They also want easy engagement through visuals. After hearing the insights from two interviewees, I decided to take a step forward to redesign the last option and make the visual trend clearer. I will write a shorter title, uses monochromatic color to emphasize P&G's data, and segment the data by years. In that, the reader can not only see the year by year trend, at the same time compare the individual yearly data between three indices. I will also add label to display the share price.   
 
 ## Step Five: Build your solutions 
 
-
+<img width="977" alt="Screen Shot 2022-11-16 at 8 53 37 PM" src="https://user-images.githubusercontent.com/101652566/202334926-074cf61b-39ef-440a-b666-6553aa6af7ea.png">
 
 
 
