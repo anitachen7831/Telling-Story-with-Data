@@ -38,6 +38,8 @@ According to previous cycle, when economic recession will end? There is still ho
 
 <img width="390" alt="Screen Shot 2022-11-23 at 2 32 44 PM" src="https://user-images.githubusercontent.com/101652566/203632023-ba5e83e0-fb8c-4edf-86e8-4c54c9595c12.png">
 
+<img width="390" alt="Screen Shot 2022-11-23 at 2 32 52 PM" src="https://user-images.githubusercontent.com/101652566/203632277-b80f8d8d-39a1-442e-aa1c-dd9b01fa104b.png">
+
 
 
 
