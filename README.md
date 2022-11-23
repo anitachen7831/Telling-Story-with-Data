@@ -51,3 +51,7 @@ This process helps me to understand data visualization both from the reader's an
 [link to assignment 3 & 4](/assignment3&4.md)
 
 ### Final Project 
+This is the presentation of final research and data visualization project at the end of the class. The research topic is about how the grocery food prices change over the past 10 years and how does consumer behaivor changes according to that (for example, per household spending). 
+
+[Link to final project](/Final_Anita.md)
+
