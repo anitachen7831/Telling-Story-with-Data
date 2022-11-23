@@ -34,6 +34,7 @@ Is inflation rate the only factor that drives up the commondity price? What if t
 ##### Resolution 
 According to previous cycle, when economic recession will end? There is still hope! 
 
+##### Initial Sketches 
 
 
 
