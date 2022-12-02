@@ -55,7 +55,7 @@ This is the presentation of final research and data visualization project at the
 
 [Link to final project draft](/Final_Anita.md)
 
-[Link to final project](/Final_Project.md)
+[Link to final project](/final_project.md)
 
 
 
