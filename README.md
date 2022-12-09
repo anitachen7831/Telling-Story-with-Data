@@ -22,8 +22,11 @@ I like scuba diving and hiking. I also like traveling. I also like food and cook
 ### Class Workshop 
 ##### Flourish
 
-### Assignment #2 
+### Assignment #2 Visualizing Government Debt
 
+This assignment is about visualizing the government debt dataset that is drawn from The Organization for Economic Co-operation and Development (OECD). The goal is to use Flourish as a tool to efficiently visualize the dataset that best tells the story. I used a line chart, bar chart, and spike lines to visualize the dataset. I also tried to use the color tool and theory that we learned in class to make visually appealing and effective data visualization. 
+
+[Link to assignemnt 2](/assignment#2.md)
 
 ### Assignment #3 & #4 Data Visualization Critique
 
@@ -36,11 +39,8 @@ This process helps me to understand data visualization both from the reader's an
 ### Final Project 
 This is the presentation of final research and data visualization project at the end of the class. The research topic is about how the grocery food prices change over the past 10 years and how does consumer behaivor changes according to that (for example, per household spending). 
 
-[Link to final project Part#1 Storyboard](/Final_Anita_#Part#1.md)
+[Link to final project](/Final_Anita_#Part#1.md)
 
-[Link to final project Part#2 User Research](/final_project_Part#2.md)
-
-[Link to final project Part#3 Data Story](/Final_Anita_Part#3.md)
 
 
 
