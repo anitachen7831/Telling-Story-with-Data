@@ -1,4 +1,4 @@
-### Final Project
+### Final Project Part 1 Storyboard
 
 #### Project Description
 
@@ -7,9 +7,6 @@ As the economic recession is coming, the inflation rate is continuously growing.
 For this project, I am investigating the changes in consumer goods prices, especially food prices; and how that correlated with the inflation rate and consumer purchasing behavior. I gathered data from Commodity Price data from a database called Dataplanet. The data includes 45 food categories from 1996 to 2021. By analyzing the price trend, I will be able to gather the pattern of price changes in the different economic cycles. Moreover, I also gathered consumer spending per household data to analyze the relationship between price and spending. 
 
 This story aims to interpret the consumer behavior pattern and how economic recession impact our daily life. 
-
-### Part 1 
-[Link to Final Project Part#1 Storyboard](/Final_Anita_Part#1.md)
 
 #### Outline 
 
