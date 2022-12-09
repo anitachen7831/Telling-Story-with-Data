@@ -8,6 +8,9 @@ For this project, I am investigating the changes in consumer goods prices, espec
 
 This story aims to interpret the consumer behavior pattern and how economic recession impact our daily life. 
 
+### Part 1 
+[Link to Final Project Part#1 Storyboard](/Final_Anita_Part#1.md)
+
 #### Outline 
 
 ##### Set Up 
