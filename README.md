@@ -13,14 +13,7 @@ I like scuba diving and hiking. I also like traveling. I also like food and cook
 2. I want to develop creativity in drawing different graphs and working with different datasets. 
 3. I also want to learn more about color theory and types of Visualization. 
 
-
 # Portfolio
-### Excercise 
-
-### Critique 
-
-### Class Workshop 
-##### Flourish
 
 ### Assignment #2 Visualizing Government Debt
 
