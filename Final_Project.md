@@ -10,11 +10,11 @@ This story aims to interpret the consumer behavior pattern and how economic rece
 
 ### Part 1 
 
-[Link to Final Project Part#1 Storyboard](/Final_Anita_Part#1.md)
+[Link to Final Project Part#1 Storyboard](/Final_Anita_Part1.md)
 
 ### part 2 
 
-[Link to Final Project Part#2 User Research](/final_project_Part#2.md)
+[Link to Final Project Part#2 User Research](/final_project_Part2.md)
 
 ### part 3
-[Link to Final Project Part#3 Data Story](/Final_Anita_Part#3.md)
+[Link to Final Project Part#3 Data Story](/Final_Anita_Part3.md)
