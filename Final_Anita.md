@@ -46,11 +46,11 @@ According to previous cycle, when economic recession will end? There is still ho
 
 All the data is exported from DataPlanet Statistics. The first dataset is the Consumer Price Index from the Consumer Price Index (CPI) - 2021 Database, it consists of 45 food categories and prices from 1997 to 2021. Some of the data points were missing, but overall it shows the general trend. I will analyze the data by food categories, whether it is meat or vegetable, and whether the average price is cheap or expensive. The metric is defined by how consumers purchase the grocery in everyday life. I will also analyze the trend within each food category to identify which one changes the most. 
 
-[link to Commondity Price](/https://docs.google.com/spreadsheets/d/1Ui6mMAug20Ihh2dY_3v-CV1dhUVMpvrT/edit?usp=sharing&ouid=103852858322702889016&rtpof=true&sd=true)
+[link to Commondity Price](https://docs.google.com/spreadsheets/d/1Ui6mMAug20Ihh2dY_3v-CV1dhUVMpvrT/edit?usp=sharing&ouid=103852858322702889016&rtpof=true&sd=true)
 
 The second dataset is the 10-Year Treasury Constant Maturity Inflation Indexed from the Interest Rates Database (USA 01/02/2003 - 11/21/2022). I will analyze the data by first drawing out the trend, and the second match with the commodity price to compare the pattern. The goal is to see whether there is a relationship and how will that change in the future. 
 
-[link to Inflation Rate](/https://docs.google.com/spreadsheets/d/1FD_vkYQ16APGtU3qmyeVu7biXyHZpcHY/edit?usp=sharing&ouid=103852858322702889016&rtpof=true&sd=true)
+[link to Inflation Rate](https://docs.google.com/spreadsheets/d/1FD_vkYQ16APGtU3qmyeVu7biXyHZpcHY/edit?usp=sharing&ouid=103852858322702889016&rtpof=true&sd=true)
 
 ##### Method and Medium 
 
