@@ -1,15 +1,15 @@
-##### Storyboard 
+### Storyboard 
 https://preview.shorthand.com/k95kyI0qbgZtvH1L
 
-#### User Research 
+### User Research 
 
-### Target Audience
+##### Target Audience
 Consumers who would buy groceries regularly and care about food prices. Consumers who are currently experiencing grocery price increases and are curious to learn about the reasons behind the increase in prices.
 
-### Approach 
+##### Approach 
 I reached out to friends and families to gain different perspectives. Most of them would purchase groceries. 
 
-### Interview Script
+##### Interview Script
 1. What does the story entail? 
 Interviewer 1: Dramatically increasing food prices. There is a lot of comparison of product prices before and after, which is very convincing.
 Interviewer 2: Increasing food prices during the recession. I like you to show the prince change of a great diversity of food. 
