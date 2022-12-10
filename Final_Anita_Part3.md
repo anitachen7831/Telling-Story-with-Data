@@ -5,11 +5,6 @@ This project was inspired by my daily grocery shopping journey and observing tha
 I was considering the root causes behind the skyrocketed food price and what should we do as consumers facing this 
 the invisible power of price increase. 
 
-The audience of this research presentation is those who also experiencing and suffering through the drastic increase in food prices. 
-The audience can be from all age levels and care about their spending. 
-The goal of this presentation is to provide a clear understanding of what happens with consumer prices and how should we prepare 
-for it. 
-
 Specifically, the story starts with an analysis of egg prices. I am an egg lover and pay a lot of attention to egg prices.
 Since it is a necessary food for every household, I dived further to see how much the egg price changed. It turns out that chicken
 and egg is the two products that changed the most. 
@@ -26,6 +21,12 @@ user research interview. Seeing other peers' work give me more inspiration to go
 
 One of the design decisions I have made that elevate my presentation is to use the Shorthand Scrollpoint Section. It helps to attract viewers' attention by 
 better convincing the call to action step by step. 
+
+#### Target Audience 
+The goal of this presentation is to provide a clear understanding of what happens with consumer prices and how should we prepare 
+for it. The audience of this research presentation is those who also experiencing and suffering through the drastic increase in food prices. 
+The audience can be from all age levels and care about their spending. 
+
 
 #### Final Presentation 
 [Link to Stroyboard](https://carnegiemellon.shorthandstories.com/skyrocketed-food-prices-during-the-economic-recession/index.html) 
