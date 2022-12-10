@@ -14,20 +14,20 @@ This story aims to interpret the consumer behavior pattern and how economic rece
 
 Egg price has increases drastically. Before I spent about $3.99 for a dozen of eggs, now for the same product, I spent about $7.99. The price almost increases twice,likewise for other products. Ultimately, average spending on grocery is increasing. How does that impact our life? 
 
-#### diagram 1 picture of egg prices change 
+#### Diagram 1 picture of egg prices change 
 
-#### diagram 2 spending growth in recent 6 months 
+#### Diagram 2 spending growth in recent 6 months 
 
-#### diagram 3 commodity price trend in 10 years 
+#### Diagram 3 commodity price trend in 10 years 
 
 #### Conflict 
 Will the price decreses as the cycle goes alone? Is that a healthy economic cycle? Who is benefiting from this inflation? If consumer spending less in grocery, what are the main categories of spending? energy? 
 
-#### diagram 4 change in consumer behavior (spending per household) 
+#### Diagram 4 change in consumer behavior (spending per household) 
 
-#### diagram 5 state distribution 
+#### Diagram 5 state distribution 
 
-#### diagram 6 inflation rate v.s grocery price  
+#### Diagram 6 inflation rate v.s grocery price  
 Is inflation rate the only factor that drives up the commondity price? What if the corporate takes advantages of consumers' expectation that there is a price growth, in that increase the price. 
 
 #### Resolution 
