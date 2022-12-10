@@ -8,6 +8,9 @@ For this project, I am investigating the changes in consumer goods prices, espec
 
 This story aims to interpret the consumer behavior pattern and how economic recession impact our daily life. 
 
+#### Target Audience
+Consumers who would buy groceries regularly and care about food prices. Consumers who are currently experiencing grocery price increases and are curious to learn about the reasons behind the increase in prices.
+
 ### Part 1 
 
 [Link to Final Project Part#1 Storyboard](/Final_Anita_Part1.md)
