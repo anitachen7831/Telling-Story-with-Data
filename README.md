@@ -3,15 +3,16 @@ Anita Chen  yuchen2@andrew.cmu.edu
 # About me
 
 ### Introduction 
-My name is Anita Chen, I am a second-year graduate student from Arts Managament Program. I studied sculpture and art history in my undergrad and looking to pivot to management consulting after school. 
+My name is Anita Chen, I am a second-year graduate student from Arts Managament Program，Heniz College. I studied sculpture and art history in my undergrad and looking to pivot to management consulting upon graduation from Carnegie Mellon University. I am interested in sharpening my data visualization skills to better narrate the story and recommendation for the clients. 
 
 ### Hobbies 
-I like scuba diving and hiking. I also like traveling. I also like food and cooking. 
+I like scuba diving and hiking. I also like traveling and cooking. 
 
 # What I hope to learn
 1. I hope to learn more about different tools for visual story telling. 
 2. I want to develop creativity in drawing different graphs and working with different datasets. 
-3. I also want to learn more about color theory and types of Visualization. 
+3. I also want to learn more about color theory and diverse types of Visualization. 
+4. Tools to learn: I hope to sharpen my Tableau and Flourish skills. 
 
 # Portfolio
 
