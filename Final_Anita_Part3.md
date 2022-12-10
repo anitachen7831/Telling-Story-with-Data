@@ -1,4 +1,4 @@
-### Skyrocketed Food Prices During the Economic Recession (Final) 
+## Skyrocketed Food Prices During the Economic Recession (Final) 
 
 #### Write Up 
 
@@ -28,6 +28,15 @@ The goal of this presentation is to provide a clear understanding of what happen
 for it. The audience of this research presentation is those who also experiencing and suffering through the drastic increase in food prices. Specially, 
 I am targeting those who are curious to learn about the reasons behind the increase in prices.
 The audience can be from all age levels and care about their spending.
+
+#### Rendered and updated Datasheet 
+
+[link to % Price Change (2021-2022](https://docs.google.com/spreadsheets/d/1pIUWjJ3pZrNZwbTWK4Lz4XXZvF1p_IDSP9afi5qp3lU/edit?usp=sharing)
+
+[link to My Spending on a Dozen of Eggs 2022](https://docs.google.com/spreadsheets/d/19a4ECRDFk685uRiS9tBbubZ4Lc8R1vu_/edit?usp=sharing&ouid=103852858322702889016&rtpof=true&sd=true)
+
+[link to 10 Common Vegtable Price (1996 - 2021)](https://docs.google.com/spreadsheets/d/12Aj7OvhDI6QtIBfbP0T3kkwtzS8R9w8b/edit?usp=sharing&ouid=103852858322702889016&rtpof=true&sd=true)
+
 
 #### Final Presentation 
 
