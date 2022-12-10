@@ -1,4 +1,5 @@
 ### Skyrocketed Food Prices During the Economic Recession (Final) 
+
 #### Write Up 
 
 This project was inspired by my daily grocery shopping journey and observing that my grocery bill has gone up in the past few months. 
@@ -24,11 +25,13 @@ better convincing the call to action step by step.
 
 #### Target Audience 
 The goal of this presentation is to provide a clear understanding of what happens with consumer prices and how should we prepare 
-for it. The audience of this research presentation is those who also experiencing and suffering through the drastic increase in food prices. 
-The audience can be from all age levels and care about their spending. 
-
+for it. The audience of this research presentation is those who also experiencing and suffering through the drastic increase in food prices. Specially, 
+I am targeting those who are curious to learn about the reasons behind the increase in prices.
+The audience can be from all age levels and care about their spending.
 
 #### Final Presentation 
+
+Please find the final version of Shorthand presentation here! 
 [Link to Stroyboard](https://carnegiemellon.shorthandstories.com/skyrocketed-food-prices-during-the-economic-recession/index.html) 
 
 
